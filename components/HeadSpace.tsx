@@ -9,7 +9,7 @@ import {
 
 export default function HeadSpace() {
     return(
-        <div className="bg-blue-400 h-10 px-10 flex justify-between items-center rounded-2xl">
+        <div className="bg-blue-400 h-10 px-10 flex justify-between items-center rounded-xl">
             <div className="flex items-center">
                 <a href="/" className="text-white hover:text-blue-950">Find What to Read Next </a>
             </div>
